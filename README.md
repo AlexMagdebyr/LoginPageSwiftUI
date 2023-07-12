@@ -3,4 +3,4 @@
 #### Страница для авторизации пользователя.
 
 <p align="center">
-![Image alt](resources/screen.png) 
+  <img src="https://github.com/AlexMagdebyr/LoginPageSwiftUI/blob/main/resources/screen.png">
